@@ -1,0 +1,14 @@
+body {
+    background: rgb(156, 147, 190);
+
+    height: 100vh;
+}
+#adstd{
+    color: rgb(253, 253, 253);
+    background-color:rebeccapurple;
+    border: hidden;
+}
+#adstd:hover{
+    background-color: rgb(255, 255, 255);
+    color:rebeccapurple
+}
